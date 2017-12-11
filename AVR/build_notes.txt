@@ -1,0 +1,43 @@
+install instructions for AVR Atmega88pa-pu
+
+required repos:
+sudo apt-get install avrdude gcc-avr binutils-avr avr-libc
+
+compiling a c file:
+sudo avr-gcc -g -Os -mmcu=atmega88pa -c test.c
+sudo avr-gcc -g -mmcu=atmega88pa -o test.elf test.o
+sudo avr-objcopy -j .text -j .data -O ihex test.elf test.hex
+
+Uploading to chip using arduino as ISP
+avrdude -c arduino -p m88p -P /dev/ttyACM0 -b 19200 -U ~/Code/Private/Jim_Campbell/treecam/AVR/test/test.hex
+
+arduino must have arduinoasISP.ino uploaded to it.
+Arduino pin 9  > Atmega pin 1   Reset
+Arduino pin 10 > Atmega pin 17  MOSI
+Arduino pin 11 > Atmega pin 18  MISO
+Arduino pin 12 > Atmega pin 19  SCK
+
+example blink sketch:
+
+#ifndef F_CPU
+#define F_CPU 8000000UL // or whatever may be your frequency
+#endif
+
+#include <avr/io.h>
+#include <util/delay.h>                // for _delay_ms()
+  
+int main(void)
+{
+    DDRB = 0x01;                       // initialize port B
+    PORTB = 0;
+    while(1)
+    {
+        // LED on
+        PORTB = 0x01;            // PC0 = High = Vcc          
+        _delay_ms(500);                // wait 500 milliseconds
+        
+        //LED off
+        PORTB = 0;            // PC0 = Low = 0v
+        _delay_ms(500);                // wait 500 milliseconds
+    }
+}

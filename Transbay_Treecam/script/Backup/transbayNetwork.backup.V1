@@ -1,0 +1,90 @@
+######################################################
+# Transbay/Treecam Network Changer                   #
+# Written by Sean McGowen                            #
+######################################################
+
+#arguments passed into Network Changer decide what network to connect to
+#1 = start deamon
+#2 = home network
+#home network is server to be used for upload
+home=$"SCompton2"
+#camera1 is wifi ESID for Camera#1
+camera1=$"JimsGoPro"
+
+
+if [ "$1" = "1" ];then
+	echo Starting Transbay/treecam Network Changer
+	echo Starting wicd deamon
+	systemctl start wicd.service & 
+	
+		if [ "$?" != "0" ]; then 
+			echo "Exit code:"
+			echo  $?
+			echo "Failed to start wicd.service" 1>&2
+			#systemctl restart wicd.service 
+			exit 1
+		fi
+		PID=$!
+		wait $PID
+		sleep 2s
+	echo Scanning and Listing avalible networks
+		wicd-cli -y -S 
+
+		if [ "$?" != "0" ]; then
+			echo "Failed to list avalible networks" 1>&2
+			exit 1 
+		fi
+		PID=$!
+		wait $PID
+		sleep 2s
+	echo Scan Complete
+	echo Listing availible networks	
+		wicd-cli -y -l 
+	        PID=$!
+		if [ "$?" != "0" ]; then
+			echo "Failed to scan for networks" 1>&2
+			echo "Exit code:" $?
+			exit 1
+		fi
+		wait $PID
+	  	sleep 2s			
+fi
+
+if [ "$1" = "2" ];then
+	echo Connecting to Home Network
+		wicd-cli -y -c $home 
+		PID=$!
+		#echo "PID="$!
+		#echo "Exit code:" $?
+		if [ "$?" != "0" ]; then
+			echo "Failed to connect to Home Network" 1>&2
+			echo "Exit code:" $?
+			exit 1
+		fi
+		#wait $PID
+		sleep 7s 
+
+
+	echo Current network:
+	wicd-cli -i
+
+	printf "\n"
+fi
+
+
+
+:<< 'END'
+echo DISCONNECTING
+	wicd-cli -y -x 
+	if [ "$?" != "0" ]; then
+		echo "Failed to disconnect wicd" 1>&2
+		exit 1
+	fi
+	systemctl stop wicd.service
+	if [ "$?" != "0" ]; then
+		echo "Failed to stop wicd service" 1>&2
+		exit 1
+	fi
+echo Finished DISCONNECTING
+END
+

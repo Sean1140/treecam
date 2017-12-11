@@ -1,0 +1,34 @@
+#######################################################################
+# Transbay/Treecam Sync                                               #
+# Written by Sean McGowen                                             #
+#######################################################################
+
+# rsync -e will delete all transfered files
+#
+
+echo Starting Transbay/Treecam Sync
+echo Syncing IMG files
+sshpass -p 'jim1tessa' rsync --remove-source-files -Prve ssh /home/transbay/img/ admin@$1:/share/homes/sean/transbay/img
+	PID=$!
+	if [ "$?" != "0" ]; then
+		echo "Failed to Sync IMG files"
+		exit 1
+	fi
+	wait $PID
+echo Deleting local IMG files
+	cd /home/transbay/img/
+	rm *
+	if [ "$?" != "0" ]; then
+		echo "Failed to Sync IMG filesi OR no IMG files exist"
+		 
+	fi
+echo Syncing LOG files
+sshpass -p 'jim1tessa' rsync -Prve ssh /home/transbay/log/ admin@$1:/share/homes/sean/transbay/log
+	PID=$!
+	if [ "$?" != "0" ]; then
+		echo "Failed to Sync LOG files"
+		exit 1
+	fi
+	wait $PID
+
+echo Finished Transbay/Treecam Sync

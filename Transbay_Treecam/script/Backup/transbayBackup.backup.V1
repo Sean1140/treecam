@@ -1,0 +1,29 @@
+#Transbay/Treecam Complete Backup Script
+#Written by Sean McGowen 
+#This script will backup the entire operating system to a remote host
+#
+#Arguement 1 is IP of server to backup to
+
+#To Do:
+#-sshpass install and add
+#
+
+
+#set date
+_now=$(date +"%m_%d_%y")
+_file="/share/homes/sean/transbay/transbay_backup"
+echo Starting Transbay/Treecam Complete Backup Script
+echo Conntecting to remote machine
+echo Uploading image to $_file on $_now
+sshpass -p 'jim1tessa' rsync -avz --update / admin@$1:$_file
+	if [ "$?" != "0" ]; then
+		echo "Failed to sync Backup"
+		echo "Exit code:" $?
+		exit 1
+	fi
+	PID=$1
+	wait $PID
+	sleep 2s
+echo Backup Complete
+
+

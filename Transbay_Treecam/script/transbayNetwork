@@ -1,0 +1,120 @@
+######################################################
+# Transbay/Treecam Network Manager                   #
+# Written by Sean McGowen                            #
+######################################################
+#
+#
+#arguments passed into transbayNetwork Changer decide what network to connect to
+#0 = Disconnect
+#1 = Start deamon
+#2 = Home network
+#3 = Camera #1
+#home network is server to be used for upload
+home=$"WhiteLight2"
+homePassword=$"Redacted"
+#camera1 is wifi ESID for Camera#1
+camera1=$"jimsgopro"
+camera1Password=$"jimsgopro1234"
+#
+#V1 using wicd (wicd-cli)
+#V2 change to NetworkManager  (nmcli)
+#
+
+if [ "$1" = "0" ];then
+	echo Disconnecting from current network
+	ifconfig wlan0 down
+		if [ "$?" != "0" ]; then
+			echo "Failed to bring wlan0 down"
+		fi
+	PID=$!
+	wait $PID
+fi
+
+if [ "$1" = "1" ];then
+	echo Starting Transbay/treecam Network Manager
+	echo Starting NetworkManager deamon
+	systemctl start NetworkManager & 
+	
+		if [ "$?" != "0" ]; then 
+			echo "Exit code:"
+			echo  $?
+			echo "Failed to start NetworkManager" 1>&2
+			#systemctl restart NetworkManager 
+			exit 1
+		fi
+		PID=$!
+		wait $PID
+		sleep 2s
+	echo Scanning and Listing avalible networks
+		nmcli general status 
+
+		if [ "$?" != "0" ]; then
+			echo "Failed to list avalible networks" 1>&2
+			exit 1 
+		fi
+		PID=$!
+		wait $PID
+		sleep 2s
+	echo Scan Complete
+	echo Listing availible networks	
+		nmcli device wifi list 
+	        PID=$!
+		if [ "$?" != "0" ]; then
+			echo "Failed to scan for networks" 1>&2
+			echo "Exit code:" $?
+			exit 1
+		fi
+		wait $PID
+	  	sleep 2s			
+fi
+
+if [ "$1" = "2" ];then
+	echo Connecting to Home Network
+		nmcli device wifi connect $home password $homePassword
+		PID=$!
+		#echo "PID="$!
+		#echo "Exit code:" $?
+		if [ "$?" != "0" ]; then
+			echo "Failed to connect to Home Network" 1>&2
+			echo "Exit code:" $?
+			exit 1
+		fi
+		wait $PID
+		#sleep 7s
+
+
+	echo Current network:
+	nmcli general status
+
+	printf "\n"
+fi
+
+if [ "$1" = "3" ];then
+	echo Connecting to Camera #1
+	echo Scanning availible networks
+		nmcli device wifi rescan
+		PID=$!
+		if [ "$?" != "0" ]; then
+			echo "Failed to scan network" 1>&2
+			exit 1
+		fi
+	wait $PID
+	echo Listing availible networks
+		nmcli device wifi list
+		PID=$!
+		if [ "$?" != "0" ]; then 
+			echo "Failed to list wifi for camera #1" 1>&2
+			exit 1
+		fi
+	wait $PID
+	echo "Connecting to Camera #1"
+		nmcli device wifi connect $camera1 password $camera1Password 
+		PID=$!
+		if [ "$?" != "0" ]; then
+			echo "Failed to Connect to camera #1" 1>&2
+			exit 1
+		fi
+	wait $PID
+
+fi
+		

@@ -1,0 +1,92 @@
+#############################################################################
+#Transbay Camera Operation				                    #
+#Written Sean McGowen	                                                    #
+#############################################################################
+#arguement $1 is length of video (video seems to be one second shorter than variable)
+
+#uses wol (wake on lan) to send magic packet to gopro
+#uses wGet to download files
+#uses Curl to send http request to gopro camera
+#(i.e) curl "http://10.5.5.9/param/PARAM2?t=PASSWORD&p=%OPTION"
+
+
+#To Do:
+
+
+#Global Variables##########################################################
+cameraPassword1="jimsgopro1234"
+cameraMAC1="D6:D9:19:7B:6C:E7"
+###########################################################################
+
+
+echo "Waking up Camera #1"
+	wol $cameraMAC1 
+	PID=$!
+                if [ "$?" != "0" ]; then
+                        echo " Failed to wake up camera #1"
+                        exit 1
+                fi
+        wait $PID
+	sleep 15s
+
+echo "Starting Recording on Camera #1"
+	curl "http://10.5.5.9/bacpac/SH?t=$cameraPassword&p=%01" 
+	PID=$!										
+		if [ "$?" != "0" ]; then
+			echo " Failed to start recording on camera #1"
+			exit 1
+		fi
+	wait $PID
+
+echo "Waiting for $1 seconds"
+	sleep $1
+
+echo "Stopping Recording on Camera #1"
+	curl "http://10.5.5.9/bacpac/SH?t=$cameraPassword&p=%00"
+        PID=$!                                                                                         
+                if [ "$?" != "0" ]; then
+                        echo " Failed to stop recording on camera #1"
+                        exit 1
+                fi
+        wait $PID
+
+echo "Getting images from Camera #1"
+	cd /root/Desktop/Transbay_Treecam/transbay/tmp/
+	wget -r "http://10.5.5.9:8080/videos/DCIM/100GOPRO/"
+        PID=$!                                                                                         
+                if [ "$?" != "0" ]; then
+                        echo " Failed to get images from camera #1"
+                        exit 1
+                fi
+        wait $PID
+echo "Saving to local img folder"
+	cd /root/Desktop/Transbay_Treecam/transbay/tmp/10.5.5.9:8080/videos/DCIM/100GOPRO
+	cp *.MP4 /root/Desktop/Transbay_Treecam/transbay/img/IMG_$(date +%d-%m-%Y-%X).MP4
+
+echo "Deleting local tmp and trash files"
+	cd /root/Desktop/Transbay_Treecam/transbay/tmp/
+	rm -r /root/Desktop/Transbay_Treecam/transbay/tmp/10.5.5.9:8080
+	cd /root/.local/share/Trash/
+	rm -r info/*
+	rm -r files/*
+
+echo "Delete last file on Camera"
+	curl "http://10.5.5.9/gp/gpControl/command/storage/delete/last"
+	#PID=$!                                                                                $
+                if [ "$?" != "0" ]; then
+                        echo " Failed to delete last file on camera #1"
+                        exit 1
+                fi
+        #wait $PID
+
+echo "Putting Camera #1 to sleep"
+	curl "http://10.5.5.9/gp/gpControl/command/system/sleep"
+	#PID=$!                                                                                $
+                if [ "$?" != "0" ]; then
+                        echo " Failed to sleep camera #1"
+                        exit 1
+                fi
+        #wait $PID
+
+ 
+echo "Transbay Camera Operation Complete"

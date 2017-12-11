@@ -1,0 +1,32 @@
+##########################################################
+#Transbay/Treecam Camera Script for RPi3/GoP             #
+#Written by Sean McGowen                                 #
+#White Light Inc.                                        #
+##########################################################
+#
+
+remoteServer="67.192.246.163"
+LOG_FILE="/root/Desktop/Transbay_Treecam/transbay/log/log.txt"
+intCamera="5" #number of seconds to let camera record for
+today=$(date +"%c")
+
+
+clear
+echo "####################################################" | tee -a "$LOG_FILE"
+echo "Start Treezmo/Transbay script" | tee -a "$LOG_FILE"
+echo "Running ${script}" | tee -a "$LOG_FILE"
+echo "Date:" $today
+cal  | tee -a "$LOG_FILE"
+echo "" | tee -a "$LOG_FILE"
+
+transbayNetwork 1 | tee -a "$LOG_FILE" #arguement 1 start deamon
+transbayNetwork 3 | tee -a "$LOG_FILE" #arguement 3 connect to camera
+transbayCamera $intCamera | tee -a "$LOG_FILE" #arguement is interval of video. Connect to camera, start recording, wait interval, stop recording, then download to img folder 
+transbayNetwork 2 | tee -a "$LOG_FILE" #arguement 2 connect to home
+transbaySync $remoteServer |tee -a "$LOG_FILE"
+
+echo Finished "Treezmo/Transbay Script" | tee -a "$LOG_FILE"
+echo "####################################################" | tee -a "$LOG_FILE"
+
+
+ 

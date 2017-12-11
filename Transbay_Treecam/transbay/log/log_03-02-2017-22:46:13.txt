@@ -1,0 +1,1912 @@
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Changer
+Starting wicd deamon
+Scanning and Listing avalible networks
+Scan Complete
+Listing availible networks
+#	BSSID			Channel	ESSID
+0	88:51:FB:20:6C:01	6	HP-Print-01-Officejet Pro 8600
+1	00:90:A9:10:E7:C6	1	WhiteLight_2
+2	52:65:F3:F7:A8:A1	6	DIRECT-A1-HP OfficeJet Pro 7740
+3	38:B1:DB:2F:77:4A	6	HP-Print-4a-LaserJet 200
+4	C0:7C:D1:D7:2B:20	1	TFS313
+5	60:02:92:E0:EC:98	11	FXT-2.4
+6	2C:56:DC:5A:6A:79	11	orangecomcast
+7	60:02:92:E0:EC:9A	11	xfinitywifi
+8	4C:60:DE:45:22:51	7	kikastreats
+9	28:37:37:47:74:56	11	Paddock
+10	30:85:A9:39:2D:01	8	STUDIO315GUEST
+11	30:85:A9:39:2D:00	8	bigbird
+12	88:51:FB:22:2E:EC	7	HP-Print-EC-Officejet Pro 8600
+13	58:6D:8F:7D:33:28	1	CandyShop
+Connecting to Home Network
+done!
+Current network:
+Connection status: Connection in progress
+Connecting to wireless network "WhiteLight_2".
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+
+sent 32 bytes  received 11 bytes  86.00 bytes/sec
+total size is 0  speedup is 0.00
+Deleting local IMG files
+Failed to Sync IMG files
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Changer
+Starting wicd deamon
+Scanning and Listing avalible networks
+Scan Complete
+Listing availible networks
+#	BSSID			Channel	ESSID
+0	00:90:A9:10:E7:C6	1	WhiteLight_2
+1	88:51:FB:20:6C:01	6	HP-Print-01-Officejet Pro 8600
+2	52:65:F3:F7:A8:A1	6	DIRECT-A1-HP OfficeJet Pro 7740
+3	38:B1:DB:2F:77:4A	6	HP-Print-4a-LaserJet 200
+4	C0:7C:D1:D7:2B:20	1	TFS313
+5	60:02:92:E0:EC:9A	11	xfinitywifi
+6	60:02:92:E0:EC:98	11	FXT-2.4
+7	4C:60:DE:45:22:51	7	kikastreats
+8	28:37:37:47:74:56	11	Paddock
+9	30:85:A9:39:2D:01	8	STUDIO315GUEST
+10	88:51:FB:22:2E:EC	7	HP-Print-EC-Officejet Pro 8600
+11	86:1B:5E:4F:35:56	11	Orange-Guest
+12	30:85:A9:39:2D:00	8	bigbird
+13	2E:A4:3C:A3:DF:06	6	000
+14	DC:FE:07:83:D3:4A	6	xfinitywifi
+Connecting to Home Network
+done!
+Current network:
+Connection status: Connected
+Connection type: Wireless
+Connected to WhiteLight_2 at 91% (IP: 10.1.10.31)
+Network ID: 0
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+
+sent 32 bytes  received 11 bytes  86.00 bytes/sec
+total size is 0  speedup is 0.00
+Deleting local IMG files
+Failed to Sync IMG filesi OR no IMG files exist
+Syncing LOG files
+sending incremental file list
+log.txt
+          2,873 100%    0.00kB/s    0:00:00            2,873 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 2,972 bytes  received 64 bytes  2,024.00 bytes/sec
+total size is 2,873  speedup is 0.95
+Finished Transbay/Treecam Sync
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Changer
+Starting wicd deamon
+Scanning and Listing avalible networks
+Scan Complete
+Listing availible networks
+#	BSSID			Channel	ESSID
+0	00:90:A9:10:E7:C6	1	WhiteLight_2
+1	88:51:FB:20:6C:01	6	HP-Print-01-Officejet Pro 8600
+2	52:65:F3:F7:A8:A1	6	DIRECT-A1-HP OfficeJet Pro 7740
+3	38:B1:DB:2F:77:4A	6	HP-Print-4a-LaserJet 200
+4	C0:7C:D1:D7:2B:20	1	TFS313
+5	4C:60:DE:45:22:51	7	kikastreats
+6	84:1B:5E:4F:35:55	11	OrangeN
+7	30:85:A9:39:2D:00	8	bigbird
+8	28:37:37:47:74:56	11	Paddock
+9	60:02:92:E0:EC:9A	11	xfinitywifi
+10	60:02:92:E0:EC:98	11	FXT-2.4
+11	86:1B:5E:4F:35:56	11	Orange-Guest
+12	2C:56:DC:5A:6A:79	11	orangecomcast
+13	30:85:A9:39:2D:01	8	STUDIO315GUEST
+14	FA:8F:CA:62:F0:6F	3	Foxtail Chromecast
+15	6C:B0:CE:36:12:FA	3	TFS2_2GEXT
+16	58:6D:8F:7D:33:28	1	CandyShop
+17	88:51:FB:22:2E:EC	7	HP-Print-EC-Officejet Pro 8600
+18	44:94:FC:5D:61:6F	11	Leadbetters
+Connecting to Home Network
+done!
+Current network:
+Connection status: Connection in progress
+Connecting to wireless network "WhiteLight_2".
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+Deleting local IMG files
+Failed to Sync IMG filesi OR no IMG files exist
+Syncing LOG files
+Finished Transbay/Treecam Sync
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Changer
+Starting wicd deamon
+Scanning and Listing avalible networks
+Scan Complete
+Listing availible networks
+#	BSSID			Channel	ESSID
+0	00:90:A9:10:E7:C6	11	WhiteLight_2
+1	88:51:FB:20:6C:01	6	HP-Print-01-Officejet Pro 8600
+2	52:65:F3:F7:A8:A1	6	DIRECT-A1-HP OfficeJet Pro 7740
+3	38:B1:DB:2F:77:4A	6	HP-Print-4a-LaserJet 200
+4	2C:56:DC:5A:6A:79	11	orangecomcast
+5	60:02:92:E0:EC:9A	1	xfinitywifi
+6	4C:60:DE:45:22:51	7	kikastreats
+7	60:02:92:E0:EC:98	1	FXT-2.4
+8	C0:7C:D1:D7:2B:20	1	TFS313
+9	86:1B:5E:4F:35:56	11	Orange-Guest
+10	30:85:A9:39:2D:01	8	STUDIO315GUEST
+11	28:37:37:47:74:56	1	Paddock
+12	84:1B:5E:4F:35:55	11	OrangeN
+13	88:51:FB:22:2E:EC	7	HP-Print-EC-Officejet Pro 8600
+14	6C:B0:CE:36:12:FA	11	TFS2_2GEXT
+15	2A:A4:3C:A3:DF:06	6	<hidden>
+Connecting to Home Network
+done!
+Current network:
+Connection status: Connection in progress
+Connecting to wireless network "WhiteLight_2".
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+
+sent 32 bytes  received 11 bytes  86.00 bytes/sec
+total size is 0  speedup is 0.00
+Deleting local IMG files
+Failed to Sync IMG filesi OR no IMG files exist
+Syncing LOG files
+sending incremental file list
+log.txt
+            700  11%    0.00kB/s    0:00:00            6,227 100%    5.27MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 3,473 bytes  received 64 bytes  2,358.00 bytes/sec
+total size is 6,227  speedup is 1.76
+Finished Transbay/Treecam Sync
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                 MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jims                 Infra  11    54 Mbit/s  100     ****  WPA2      
+   HOME-8CB6_EXT        Infra  11    54 Mbit/s  55      **    WPA1 WPA2 
+   ATT254               Infra  9     54 Mbit/s  47      **    WPA1 WPA2 
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                             MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                        Infra  6     54 Mbit/s  100     ****  WPA2      
+   DIRECT-A1-HP OfficeJet Pro 7740  Infra  6     54 Mbit/s  77      ***   WPA2      
+*  WhiteLight2                      Infra  3     54 Mbit/s  76      ***   WPA2      
+   TFS313                           Infra  1     54 Mbit/s  54      **    WPA2      
+   HP-Print-4a-LaserJet 200         Infra  6     54 Mbit/s  50      **    --        
+   orangecomcast                    Infra  11    54 Mbit/s  49      **    WPA2      
+   OrangeN                          Infra  11    54 Mbit/s  47      **    WPA2      
+   Orange-Guest                     Infra  11    54 Mbit/s  47      **    WPA2      
+   Paddock                          Infra  1     54 Mbit/s  39      **    WPA2      
+   xfinitywifi                      Infra  1     54 Mbit/s  35      **    --        
+   kikastreats                      Infra  7     54 Mbit/s  35      **    WPA2      
+   FXT-2.4                          Infra  1     54 Mbit/s  34      **    WPA1 WPA2 
+   Other Network                    Infra  6     54 Mbit/s  34      **    WPA2      
+   TFS2_2GEXT                       Infra  11    54 Mbit/s  34      **    WPA1 WPA2 
+   --                               Infra  3     54 Mbit/s  22      *     --        
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                             MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                        Infra  6     54 Mbit/s  100     ****  WPA2      
+   DIRECT-A1-HP OfficeJet Pro 7740  Infra  6     54 Mbit/s  77      ***   WPA2      
+*  WhiteLight2                      Infra  3     54 Mbit/s  76      ***   WPA2      
+   TFS313                           Infra  1     54 Mbit/s  54      **    WPA2      
+   HP-Print-4a-LaserJet 200         Infra  6     54 Mbit/s  50      **    --        
+   orangecomcast                    Infra  11    54 Mbit/s  49      **    WPA2      
+   OrangeN                          Infra  11    54 Mbit/s  47      **    WPA2      
+   Orange-Guest                     Infra  11    54 Mbit/s  47      **    WPA2      
+   Paddock                          Infra  1     54 Mbit/s  39      **    WPA2      
+   xfinitywifi                      Infra  1     54 Mbit/s  35      **    --        
+   kikastreats                      Infra  7     54 Mbit/s  35      **    WPA2      
+   FXT-2.4                          Infra  1     54 Mbit/s  34      **    WPA1 WPA2 
+   Other Network                    Infra  6     54 Mbit/s  34      **    WPA2      
+   TFS2_2GEXT                       Infra  11    54 Mbit/s  34      **    WPA1 WPA2 
+   --                               Infra  3     54 Mbit/s  22      *     --        
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '38586e78-0a80-4ecb-9020-fe70c65dabab'.
+Starting Recording on Camera #1
+  Waiting for 60 seconds
+Stopping Recording on Camera #2
+  Getting images from Camera #1
+Saving to local img folder
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with 'ab6ba427-bf34-41b1-a7e2-7068a0c28ce3'.
+Current network:
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/
+img/IMG_29-01-2017-+00:00:00
+         32,768   0%    0.00kB/s    0:00:00        2,424,832   3%    2.22MB/s    0:00:26        2,916,352   4%  462.32kB/s    0:02:07        3,178,496   5%  393.85kB/s    0:02:28        3,702,784   6%  229.33kB/s    0:04:12        3,964,928   6%   58.18kB/s    0:16:32        4,227,072   6%   55.54kB/s    0:17:14        4,751,360   7%   66.41kB/s    0:14:17        7,241,728  11%  210.85kB/s    0:04:18        7,733,248  12%  596.53kB/s    0:01:30        8,257,536  13%  773.43kB/s    0:01:09        8,781,824  14%  876.81kB/s    0:01:00        9,306,112  15%  441.04kB/s    0:01:58        9,830,400  15%  432.98kB/s    0:01:59       10,354,688  16%  433.26kB/s    0:01:58       10,878,976  17%  431.16kB/s    0:01:57       11,042,816  17%  261.49kB/s    0:03:13       12,713,984  20%  432.10kB/s    0:01:53       13,238,272  21%  430.91kB/s    0:01:52       13,729,792  22%  433.44kB/s    0:01:50       14,254,080  23%  668.37kB/s    0:01:10       14,778,368  23%  426.31kB/s    0:01:50       15,171,584  24%  407.78kB/s    0:01:54       15,695,872  25%  422.16kB/s    0:01:48       16,220,160  26%  421.70kB/s    0:01:47       16,744,448  27%  427.52kB/s    0:01:45       17,268,736  27%  443.77kB/s    0:01:40       17,793,024  28%  425.87kB/s    0:01:43       18,317,312  29%  429.17kB/s    0:01:41       18,841,600  30%  430.98kB/s    0:01:39       19,365,888  31%  435.10kB/s    0:01:37       19,890,176  32%  437.98kB/s    0:01:35       20,414,464  33%  434.91kB/s    0:01:34       20,938,752  33%  433.71kB/s    0:01:33       21,463,040  34%  420.62kB/s    0:01:35       21,987,328  35%  434.82kB/s    0:01:31       22,380,544  36%  416.12kB/s    0:01:34       23,035,904  37%  434.63kB/s    0:01:28       23,560,192  38%  449.22kB/s    0:01:24       24,084,480  39%  434.08kB/s    0:01:26       24,608,768  39%  452.20kB/s    0:01:22       25,133,056  40%  419.16kB/s    0:01:27       25,657,344  41%  430.98kB/s    0:01:23       26,181,632  42%  430.07kB/s    0:01:22       26,705,920  43%  431.16kB/s    0:01:21       27,230,208  44%  448.53kB/s    0:01:16       27,754,496  44%  435.28kB/s    0:01:17       28,278,784  45%  436.12kB/s    0:01:16       28,803,072  46%  433.81kB/s    0:01:15       29,196,288  47%  416.76kB/s    0:01:17       29,851,648  48%  434.82kB/s    0:01:13       30,244,864  49%  412.64kB/s    0:01:16       30,900,224  50%  433.99kB/s    0:01:10       30,965,760  50%  284.44kB/s    0:01:48       32,473,088  52%  432.87kB/s    0:01:07       32,997,376  53%  451.69kB/s    0:01:03       33,390,592  54%  425.25kB/s    0:01:06       33,914,880  54%  665.74kB/s    0:00:41       34,439,168  55%  437.26kB/s    0:01:02       34,963,456  56%  436.26kB/s    0:01:01       35,487,744  57%  448.63kB/s    0:00:58       36,012,032  58%  435.37kB/s    0:00:58       36,536,320  59%  435.93kB/s    0:00:57       37,060,608  60%  435.19kB/s    0:00:56       37,453,824  60%  419.76kB/s    0:00:57       37,978,112  61%  433.90kB/s    0:00:54       38,436,864  62%  433.54kB/s    0:00:53       38,862,848  62%  429.37kB/s    0:00:53       39,354,368  63%  440.02kB/s    0:00:50       39,878,656  64%  423.55kB/s    0:00:51       40,402,944  65%  414.60kB/s    0:00:51       40,927,232  66%  413.45kB/s    0:00:50       41,451,520  67%  418.04kB/s    0:00:48       41,975,808  68%  418.99kB/s    0:00:47       42,467,328  68%  421.32kB/s    0:00:45       42,991,616  69%  427.57kB/s    0:00:43       43,515,904  70%  416.70kB/s    0:00:43       44,040,192  71%  428.12kB/s    0:00:41       44,564,480  72%  434.27kB/s    0:00:39       45,088,768  73%  433.44kB/s    0:00:38       45,613,056  73%  445.31kB/s    0:00:36       46,137,344  74%  433.71kB/s    0:00:35       46,661,632  75%  434.17kB/s    0:00:34       47,185,920  76%  435.28kB/s    0:00:33       47,710,208  77%  436.39kB/s    0:00:32       48,103,424  77%  420.96kB/s    0:00:32       48,627,712  78%  434.68kB/s    0:00:30       49,152,000  79%  434.39kB/s    0:00:28       49,676,288  80%  435.28kB/s    0:00:27       50,200,576  81%  449.42kB/s    0:00:25       50,724,864  82%  435.74kB/s    0:00:25       51,249,152  83%  423.67kB/s    0:00:24       51,773,440  83%  431.70kB/s    0:00:22       52,297,728  84%  431.07kB/s    0:00:21       52,822,016  85%  430.52kB/s    0:00:20       53,346,304  86%  438.17kB/s    0:00:19       53,870,592  87%  428.81kB/s    0:00:18       54,394,880  88%  429.71kB/s    0:00:16       54,919,168  89%  430.89kB/s    0:00:15       55,443,456  89%  435.65kB/s    0:00:14       55,967,744  90%  435.74kB/s    0:00:13       56,360,960  91%  416.40kB/s    0:00:12       57,016,320  92%  434.17kB/s    0:00:10       57,540,608  93%  432.80kB/s    0:00:09       58,064,896  94%  433.71kB/s    0:00:08       58,589,184  94%  453.33kB/s    0:00:06       59,113,472  95%  433.81kB/s    0:00:05       59,637,760  96%  437.05kB/s    0:00:04       60,162,048  97%  435.28kB/s    0:00:03       60,555,264  98%  410.70kB/s    0:00:02       61,243,392  99%  437.53kB/s    0:00:01       61,692,862 100%  388.65kB/s    0:02:34 (xfr#1, to-chk=0/2)
+
+sent 61,708,046 bytes  received 38 bytes  382,093.40 bytes/sec
+total size is 61,692,862  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/
+log/log.txt
+         17,092 100%    0.00kB/s    0:00:00           17,092 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 17,206 bytes  received 38 bytes  11,496.00 bytes/sec
+total size is 17,092  speedup is 0.99
+Finished Transbay/Treecam Sync
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID       MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*  jimsgopro  Infra  6     54 Mbit/s  72      ***   WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID       MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*  jimsgopro  Infra  6     54 Mbit/s  72      ***   WPA2     
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with 'b05dc80c-564f-49a0-bb47-ee7b3ca2e993'.
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp files
+Delete last file on Camera
+{}
+ Failed to start recording on camera #1
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '90bc59de-0c86-4173-97aa-2f72c12dfc3a'.
+Current network:
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_30-01-2017-19:29:59.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,555,904   9%    2.28MB/s    0:00:10        3,080,192  11%    1.29MB/s    0:00:18        3,473,408  12% 1007.50kB/s    0:00:23        3,997,696  14%  832.51kB/s    0:00:28        4,521,984  16%  394.82kB/s    0:00:58        5,046,272  18%  394.57kB/s    0:00:57        5,570,560  20%  413.74kB/s    0:00:53        6,094,848  22%  425.69kB/s    0:00:50        6,619,136  23%  432.52kB/s    0:00:48        7,143,424  25%  429.80kB/s    0:00:47        7,667,712  27%  432.16kB/s    0:00:46        8,192,000  29%  430.43kB/s    0:00:45        8,716,288  31%  432.43kB/s    0:00:43        9,240,576  33%  436.67kB/s    0:00:42        9,764,864  35%  432.98kB/s    0:00:41       10,289,152  37%  435.19kB/s    0:00:39       10,813,440  39%  422.62kB/s    0:00:39       11,337,728  41%  422.62kB/s    0:00:38       11,862,016  42%  420.62kB/s    0:00:37       12,386,304  44%  417.62kB/s    0:00:36       12,910,592  46%  427.83kB/s    0:00:34       13,434,880  48%  426.13kB/s    0:00:33       13,959,168  50%  428.09kB/s    0:00:31       14,483,456  52%  430.07kB/s    0:00:30       15,007,744  54%  427.56kB/s    0:00:29       15,532,032  56%  418.73kB/s    0:00:28       15,925,248  57%  407.73kB/s    0:00:28       16,318,464  59%  380.87kB/s    0:00:29       16,580,608  60%  322.28kB/s    0:00:34       17,104,896  61%  324.67kB/s    0:00:32       17,629,184  63%  337.87kB/s    0:00:29       18,153,472  65%  361.73kB/s    0:00:26       18,546,688  67%  405.75kB/s    0:00:22       19,070,976  69%  410.34kB/s    0:00:20       19,595,264  70%  408.86kB/s    0:00:19       19,988,480  72%  390.24kB/s    0:00:19       20,512,768  74%  421.42kB/s    0:00:16       21,037,056  76%  420.50kB/s    0:00:15       21,561,344  78%  418.12kB/s    0:00:14       22,085,632  79%  437.23kB/s    0:00:12       22,609,920  81%  420.10kB/s    0:00:11       23,134,208  83%  422.62kB/s    0:00:10       23,658,496  85%  427.47kB/s    0:00:09       24,182,784  87%  423.05kB/s    0:00:08       24,707,072  89%  403.55kB/s    0:00:07       25,100,288  90%  377.88kB/s    0:00:06       25,624,576  92%  378.40kB/s    0:00:05       26,148,864  94%  383.69kB/s    0:00:03       26,673,152  96%  404.21kB/s    0:00:02       27,197,440  98%  432.98kB/s    0:00:00       27,618,461 100%  444.36kB/s    0:01:00 (xfr#1, to-chk=0/2)
+
+sent 27,625,321 bytes  received 35 bytes  409,264.53 bytes/sec
+total size is 27,618,461  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   3%    0.00kB/s    0:00:00           21,610 100%   19.94MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 5,017 bytes  received 185 bytes  3,468.00 bytes/sec
+total size is 21,610  speedup is 4.15
+Finished Transbay/Treecam Sync
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*  WhiteLight2  Infra  3     54 Mbit/s  76      ***   WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*  WhiteLight2  Infra  3     54 Mbit/s  76      ***   WPA2     
+Connecting to Camera #1
+Waking up Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*  WhiteLight2  Infra  3     54 Mbit/s  76      ***   WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+*  WhiteLight2  Infra  3     54 Mbit/s  76      ***   WPA2     
+Connecting to Camera #1
+Waking up Camera #1
+Starting Recording on Camera #1
+Waiting for 5 seconds
+####################################################
+Start Treezmo/Transbay script
+Running 
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  74      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  60      ***   WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  45      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  44      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  42      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  40      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  40      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  40      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  39      **    --        
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  37      **    WPA1 WPA2 
+   OrangeN                         Infra  11    54 Mbit/s  32      **    WPA2      
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  76      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  60      ***   WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  45      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  44      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  42      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  40      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  40      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  40      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  39      **    --        
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  37      **    WPA1 WPA2 
+   OrangeN                         Infra  11    54 Mbit/s  32      **    WPA2      
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with 'e194e81c-eeb7-46a9-821e-c0c9fad2eef4'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with 'ec237727-e0c7-40d1-86e0-f375b3550864'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_31-01-2017-00:21:20.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,555,904   9%    2.26MB/s    0:00:11        3,080,192  10%    1.29MB/s    0:00:19        3,604,480  12% 1014.25kB/s    0:00:24        4,128,768  14%  867.30kB/s    0:00:27        4,653,056  16%  417.11kB/s    0:00:56        5,275,648  18%  455.01kB/s    0:00:50        5,701,632  20%  435.19kB/s    0:00:51        6,225,920  22%  435.00kB/s    0:00:50        6,619,136  23%  426.67kB/s    0:00:50        7,143,424  25%  403.27kB/s    0:00:52        7,667,712  27%  421.33kB/s    0:00:48        8,192,000  29%  421.51kB/s    0:00:47        8,716,288  30%  448.34kB/s    0:00:43        9,240,576  32%  433.81kB/s    0:00:43        9,764,864  34%  435.74kB/s    0:00:42       10,289,152  36%  418.73kB/s    0:00:42       10,944,512  38%  434.85kB/s    0:00:39       11,337,728  40%  415.42kB/s    0:00:40       11,862,016  42%  426.58kB/s    0:00:38       12,386,304  43%  443.77kB/s    0:00:35       12,910,592  45%  426.19kB/s    0:00:35       13,434,880  47%  446.77kB/s    0:00:33       13,959,168  49%  436.12kB/s    0:00:32       14,352,384  50%  419.40kB/s    0:00:33       14,876,672  52%  432.34kB/s    0:00:30       15,400,960  54%  432.72kB/s    0:00:29       15,925,248  56%  429.63kB/s    0:00:28       16,449,536  58%  437.89kB/s    0:00:26       16,973,824  60%  424.02kB/s    0:00:26       17,498,112  62%  423.75kB/s    0:00:25       18,022,400  63%  424.10kB/s    0:00:23       18,546,688  65%  431.16kB/s    0:00:22       19,070,976  67%  432.52kB/s    0:00:21       19,595,264  69%  433.07kB/s    0:00:19       20,119,552  71%  433.99kB/s    0:00:18       20,643,840  73%  434.54kB/s    0:00:17       21,168,128  75%  433.16kB/s    0:00:16       21,692,416  76%  430.61kB/s    0:00:15       22,216,704  78%  432.43kB/s    0:00:13       22,740,992  80%  432.62kB/s    0:00:12       23,265,280  82%  417.79kB/s    0:00:11       23,887,872  84%  456.17kB/s    0:00:09       24,313,856  86%  435.00kB/s    0:00:08       24,838,144  88%  432.52kB/s    0:00:07       25,362,432  89%  448.73kB/s    0:00:06       25,886,720  91%  403.47kB/s    0:00:05       26,411,008  93%  428.63kB/s    0:00:04       26,935,296  95%  430.43kB/s    0:00:02       27,459,584  97%  430.25kB/s    0:00:01       27,983,872  99%  437.89kB/s    0:00:00       28,195,421 100%  466.22kB/s    0:00:58 (xfr#1, to-chk=0/2)
+
+sent 28,202,425 bytes  received 35 bytes  430,571.91 bytes/sec
+total size is 28,195,421  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   2%    0.00kB/s    0:00:00           30,605 100%    9.51MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 9,836 bytes  received 221 bytes  6,704.67 bytes/sec
+total size is 30,605  speedup is 3.04
+Finished Transbay/Treecam Sync
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 01:04:45 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Waking up Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 01:06:43 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Waking up Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 01:09:09 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Waking up Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 01:10:08 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+   WhiteLight2  Infra  3     54 Mbit/s  97      ****  WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY    
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2        
+   WhiteLight2                     Infra  3     54 Mbit/s  100     ****  WPA2        
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  57      ***   --          
+   TFS313                          Infra  1     54 Mbit/s  55      **    WPA2        
+   orangecomcast                   Infra  11    54 Mbit/s  54      **    WPA2        
+   kikastreats                     Infra  7     54 Mbit/s  50      **    WPA2        
+   OrangeN                         Infra  11    54 Mbit/s  40      **    WPA2        
+   xfinitywifi                     Infra  1     54 Mbit/s  39      **    --          
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  39      **    WPA2        
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  39      **    WPA2        
+   bigbird                         Infra  8     54 Mbit/s  39      **    WPA2        
+   Orange-Guest                    Infra  11    54 Mbit/s  34      **    WPA2        
+   FXT-2.4                         Infra  1     54 Mbit/s  32      **    WPA1 WPA2   
+   Other Network                   Infra  6     54 Mbit/s  30      *     WPA2        
+   000                             Infra  6     54 Mbit/s  29      *     WPA2 802.1X 
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  20      *     WPA1 WPA2   
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '832a4ea8-7a0e-4df3-a49f-e5011256b590'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '74b1884a-5e7b-41e6-80c2-b0ab859cf787'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_31-01-2017-01:10:51.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,555,904   9%    1.97MB/s    0:00:12        3,080,192  11%    1.30MB/s    0:00:18        3,604,480  12% 1023.17kB/s    0:00:23        4,128,768  14%  870.70kB/s    0:00:27        4,653,056  16%  449.32kB/s    0:00:51        5,177,344  18%  431.98kB/s    0:00:52        5,701,632  20%  429.17kB/s    0:00:51        6,225,920  22%  430.52kB/s    0:00:50        6,750,208  24%  429.08kB/s    0:00:49        7,274,496  25%  430.89kB/s    0:00:48        7,798,784  27%  433.44kB/s    0:00:46        8,323,072  29%  432.80kB/s    0:00:45        8,716,288  31%  413.17kB/s    0:00:46        9,371,648  33%  433.26kB/s    0:00:42        9,895,936  35%  433.81kB/s    0:00:41       10,420,224  37%  434.27kB/s    0:00:40       10,944,512  39%  455.23kB/s    0:00:37       11,206,656  40%  369.26kB/s    0:00:45       11,730,944  41%  365.42kB/s    0:00:44       12,255,232  43%    0.03kB/s  153:19:00       12,779,520  45%    0.03kB/s  148:12:19       13,303,808  47%    0.03kB/s  125:12:24       13,828,096  49%    0.03kB/s  120:44:03       14,352,384  51%  436.12kB/s    0:00:31       14,876,672  53%  434.91kB/s    0:00:30       15,400,960  55%  434.36kB/s    0:00:28       15,925,248  56%  435.47kB/s    0:00:27       16,449,536  58%  435.37kB/s    0:00:26       16,973,824  60%  431.43kB/s    0:00:25       17,498,112  62%  431.07kB/s    0:00:24       18,022,400  64%  431.16kB/s    0:00:23       18,546,688  66%  430.25kB/s    0:00:21       19,070,976  68%  435.37kB/s    0:00:20       19,595,264  70%  435.74kB/s    0:00:19       19,988,480  71%  412.73kB/s    0:00:19       20,512,768  73%  397.10kB/s    0:00:18       21,168,128  75%  433.35kB/s    0:00:15       21,692,416  77%  434.17kB/s    0:00:14       22,216,704  79%  456.18kB/s    0:00:12       22,740,992  81%  473.15kB/s    0:00:11       23,265,280  83%  434.36kB/s    0:00:10       23,789,568  85%  433.90kB/s    0:00:09       24,182,784  86%  420.59kB/s    0:00:09       24,707,072  88%  435.97kB/s    0:00:07       25,231,360  90%  435.67kB/s    0:00:06       25,755,648  92%  436.36kB/s    0:00:05       26,279,936  93%  448.93kB/s    0:00:03       26,804,224  95%  431.25kB/s    0:00:02       27,197,440  97%  407.73kB/s    0:00:01       27,721,728  99%  413.70kB/s    0:00:00       27,981,263 100%    0.43kB/s   17:29:08 (xfr#1, to-chk=0/2)
+
+sent 27,988,215 bytes  received 35 bytes  444.55 bytes/sec
+total size is 27,981,263  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   1%    0.00kB/s    0:00:00           37,556 100%   11.72MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 7,739 bytes  received 299 bytes  5,358.67 bytes/sec
+total size is 37,556  speedup is 4.67
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 18:45:42 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Waking up Camera #1
+Starting Recording on Camera #1
+Waiting for 5 seconds
+Stopping Recording on Camera #1
+Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+ Failed to delete last file on camera #1
+Starting Transbay/Treecam Sync
+Syncing IMG files
+Deleting local IMG files
+Failed to Sync IMG files OR no IMG files already deleted
+Syncing LOG files
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 18:50:46 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+   WhiteLight2  Infra  3     54 Mbit/s  94      ****  WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  73      ***   WPA2      
+   TFS313                          Infra  1     54 Mbit/s  57      ***   WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  57      ***   --        
+   orangecomcast                   Infra  11    54 Mbit/s  49      **    WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  47      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  42      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  42      **    WPA1 WPA2 
+   OrangeN                         Infra  11    54 Mbit/s  30      *     WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  29      *     WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  29      *     WPA2      
+   --                              Infra  11    54 Mbit/s  20      *     WPA1 WPA2 
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '5133a825-d735-41f4-91a4-69cb3cc1edb7'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '912872f7-23f1-4cd7-ac2e-6d1cbab4c0af'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_31-01-2017-18:51:41.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,555,904   9%    2.30MB/s    0:00:10        3,080,192  11%    1.30MB/s    0:00:18        3,604,480  12%    1.00MB/s    0:00:23        4,128,768  14%  873.93kB/s    0:00:27        4,653,056  16%  434.27kB/s    0:00:53        5,177,344  18%  436.02kB/s    0:00:52        5,701,632  20%  434.08kB/s    0:00:51        6,225,920  22%  434.54kB/s    0:00:49        6,750,208  24%  435.10kB/s    0:00:48        7,274,496  26%  434.08kB/s    0:00:47        7,798,784  27%  434.36kB/s    0:00:46        8,323,072  29%  434.45kB/s    0:00:45        8,847,360  31%  433.71kB/s    0:00:43        9,371,648  33%  433.26kB/s    0:00:42        9,895,936  35%  435.19kB/s    0:00:41       10,420,224  37%  427.74kB/s    0:00:40       10,944,512  39%  436.21kB/s    0:00:38       11,468,800  41%  436.77kB/s    0:00:37       11,993,088  42%  435.10kB/s    0:00:36       12,517,376  44%  442.72kB/s    0:00:34       13,041,664  46%  434.82kB/s    0:00:34       13,565,952  48%  433.26kB/s    0:00:33       14,090,240  50%  433.90kB/s    0:00:31       14,614,528  52%  432.80kB/s    0:00:30       15,138,816  54%  433.16kB/s    0:00:29       15,663,104  56%  434.27kB/s    0:00:28       16,187,392  58%  430.80kB/s    0:00:27       16,711,680  59%  432.25kB/s    0:00:25       17,235,968  61%  416.43kB/s    0:00:25       17,760,256  63%  431.52kB/s    0:00:23       18,284,544  65%  436.30kB/s    0:00:22       18,808,832  67%  436.12kB/s    0:00:20       19,333,120  69%  452.10kB/s    0:00:18       19,857,408  71%  432.07kB/s    0:00:18       20,381,696  73%  430.98kB/s    0:00:17       20,905,984  74%  429.53kB/s    0:00:16       21,430,272  76%  427.91kB/s    0:00:15       21,954,560  78%  432.62kB/s    0:00:13       22,347,776  80%  416.12kB/s    0:00:13       22,872,064  81%  433.31kB/s    0:00:11       23,396,352  83%  435.87kB/s    0:00:10       23,920,640  85%  432.82kB/s    0:00:09       24,444,928  87%  449.71kB/s    0:00:07       24,969,216  89%  434.08kB/s    0:00:06       25,493,504  91%  433.81kB/s    0:00:05       26,017,792  93%  420.27kB/s    0:00:04       26,542,080  95%  433.90kB/s    0:00:03       26,935,296  96%  413.70kB/s    0:00:02       27,590,656  98%  434.45kB/s    0:00:00       27,895,369 100%  469.22kB/s    0:00:57 (xfr#1, to-chk=0/2)
+
+sent 27,902,301 bytes  received 35 bytes  432,594.36 bytes/sec
+total size is 27,895,369  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   1%    0.00kB/s    0:00:00           44,041 100%   13.78MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 7,264 bytes  received 359 bytes  5,082.00 bytes/sec
+total size is 44,041  speedup is 5.78
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 18:55:46 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+   WhiteLight2  Infra  3     54 Mbit/s  95      ****  WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  74      ***   WPA2      
+   TFS313                          Infra  1     54 Mbit/s  55      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  52      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  50      **    WPA1 WPA2 
+   kikastreats                     Infra  7     54 Mbit/s  50      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  47      **    --        
+   orangecomcast                   Infra  11    54 Mbit/s  44      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  39      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  39      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  34      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  32      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  32      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  32      **    WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  20      *     WPA1 WPA2 
+   Foxtail Chromecast              Infra  11    54 Mbit/s  17      *     --        
+   CandyShop                       Infra  11    54 Mbit/s  14      *     WPA1 WPA2 
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '849bd8cb-ccee-4522-b2e7-4144d3ab8f90'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 21:14:02 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  limited       enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                      MODE   CHAN  RATE       SIGNAL  BARS  SECURITY    
+   jimsgopro                 Infra  1     54 Mbit/s  100     ****  WPA2        
+   WhiteLight2               Infra  3     54 Mbit/s  92      ****  WPA2        
+   TFS313                    Infra  1     54 Mbit/s  64      ***   WPA2        
+   HP-Print-4a-LaserJet 200  Infra  6     54 Mbit/s  55      **    --          
+   orangecomcast             Infra  11    54 Mbit/s  49      **    WPA2        
+   kikastreats               Infra  7     54 Mbit/s  45      **    WPA2        
+   Orange-Guest              Infra  11    54 Mbit/s  40      **    WPA2        
+   STUDIO315GUEST            Infra  8     54 Mbit/s  39      **    WPA2        
+   bigbird                   Infra  8     54 Mbit/s  37      **    WPA2        
+   xfinitywifi               Infra  1     54 Mbit/s  35      **    --          
+   FXT-2.4                   Infra  1     54 Mbit/s  35      **    WPA1 WPA2   
+   OrangeN                   Infra  11    54 Mbit/s  35      **    WPA2        
+   Paddock                   Infra  1     54 Mbit/s  34      **    WPA2        
+   --                        Infra  6     54 Mbit/s  27      *     WPA2        
+   000                       Infra  6     54 Mbit/s  27      *     WPA2 802.1X 
+   TFS2_2GEXT                Infra  11    54 Mbit/s  24      *     WPA1 WPA2   
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                      MODE   CHAN  RATE       SIGNAL  BARS  SECURITY    
+   jimsgopro                 Infra  1     54 Mbit/s  100     ****  WPA2        
+   WhiteLight2               Infra  3     54 Mbit/s  92      ****  WPA2        
+   TFS313                    Infra  1     54 Mbit/s  64      ***   WPA2        
+   HP-Print-4a-LaserJet 200  Infra  6     54 Mbit/s  55      **    --          
+   orangecomcast             Infra  11    54 Mbit/s  49      **    WPA2        
+   kikastreats               Infra  7     54 Mbit/s  45      **    WPA2        
+   Orange-Guest              Infra  11    54 Mbit/s  40      **    WPA2        
+   STUDIO315GUEST            Infra  8     54 Mbit/s  39      **    WPA2        
+   bigbird                   Infra  8     54 Mbit/s  37      **    WPA2        
+   xfinitywifi               Infra  1     54 Mbit/s  35      **    --          
+   FXT-2.4                   Infra  1     54 Mbit/s  35      **    WPA1 WPA2   
+   OrangeN                   Infra  11    54 Mbit/s  35      **    WPA2        
+   Paddock                   Infra  1     54 Mbit/s  34      **    WPA2        
+   --                        Infra  6     54 Mbit/s  27      *     WPA2        
+   000                       Infra  6     54 Mbit/s  27      *     WPA2 802.1X 
+   TFS2_2GEXT                Infra  11    54 Mbit/s  24      *     WPA1 WPA2   
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '9929e87a-2d51-4b7e-98f7-cebece443362'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '77c21239-c133-4eef-bb5f-260012222b89'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_31-01-2017-21:14:47.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,424,832   8%    2.26MB/s    0:00:10        3,080,192  11%    1.29MB/s    0:00:18        3,604,480  12% 1015.13kB/s    0:00:23        4,128,768  14%  867.30kB/s    0:00:27        4,653,056  16%  452.96kB/s    0:00:51        5,177,344  18%  434.91kB/s    0:00:52        5,701,632  20%  435.37kB/s    0:00:50        6,225,920  22%  434.82kB/s    0:00:49        6,750,208  24%  438.07kB/s    0:00:48        7,274,496  26%  434.73kB/s    0:00:47        7,798,784  28%  433.62kB/s    0:00:46        8,323,072  29%  436.86kB/s    0:00:44        8,847,360  31%  433.71kB/s    0:00:43        9,371,648  33%  437.61kB/s    0:00:42        9,895,936  35%  438.26kB/s    0:00:40       10,420,224  37%  435.93kB/s    0:00:39       10,944,512  39%  419.07kB/s    0:00:40       11,599,872  41%  434.16kB/s    0:00:37       11,993,088  43%  412.82kB/s    0:00:38       12,648,448  45%  430.89kB/s    0:00:35       13,172,736  47%  451.55kB/s    0:00:32       13,697,024  49%  432.71kB/s    0:00:32       14,221,312  51%  454.09kB/s    0:00:29       14,745,600  52%  434.63kB/s    0:00:30       15,138,816  54%  414.60kB/s    0:00:30       15,663,104  56%  431.46kB/s    0:00:28       16,187,392  58%  433.60kB/s    0:00:26       16,711,680  60%  434.59kB/s    0:00:25       17,235,968  61%  453.20kB/s    0:00:23       17,760,256  63%  436.02kB/s    0:00:23       18,284,544  65%  434.45kB/s    0:00:21       18,808,832  67%  435.37kB/s    0:00:20       19,333,120  69%  432.71kB/s    0:00:19       19,857,408  71%  434.45kB/s    0:00:18       20,381,696  73%  436.86kB/s    0:00:17       20,905,984  75%  420.02kB/s    0:00:16       21,430,272  76%  436.67kB/s    0:00:14       21,954,560  78%  428.00kB/s    0:00:13       22,478,848  80%  434.54kB/s    0:00:12       23,003,136  82%  450.80kB/s    0:00:10       23,527,424  84%  436.30kB/s    0:00:09       24,051,712  86%  441.76kB/s    0:00:08       24,576,000  88%  433.81kB/s    0:00:07       25,100,288  90%  433.07kB/s    0:00:06       25,624,576  92%  433.07kB/s    0:00:05       26,017,792  93%  419.95kB/s    0:00:04       26,542,080  95%  433.41kB/s    0:00:02       27,066,368  97%  434.49kB/s    0:00:01       27,590,656  99%  434.98kB/s    0:00:00       27,834,688 100%  471.18kB/s    0:00:57 (xfr#1, to-chk=0/2)
+
+sent 27,841,604 bytes  received 35 bytes  431,653.32 bytes/sec
+total size is 27,834,688  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   1%    0.00kB/s    0:00:00           53,651 100%    8.42MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 10,610 bytes  received 413 bytes  7,348.67 bytes/sec
+total size is 53,651  speedup is 4.87
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Tue Jan 31 23:27:38 2017
+    January 2017    
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+   WhiteLight2  Infra  3     54 Mbit/s  97      ****  WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  77      ***   WPA2      
+   TFS313                          Infra  1     54 Mbit/s  62      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  52      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  47      **    WPA1 WPA2 
+   orangecomcast                   Infra  11    54 Mbit/s  47      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  45      **    --        
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  40      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  39      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  35      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  32      **    WPA2      
+   --                              Infra  6     54 Mbit/s  27      *     WPA2      
+   Paddock                         Infra  1     54 Mbit/s  25      *     WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  22      *     WPA2      
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '89116591-aece-410b-9567-2f7518474452'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with 'c8a2c055-706c-4226-aa7c-96658509a383'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_31-01-2017-23:28:24.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,555,904   8%    2.28MB/s    0:00:11        2,949,120  10%    1.26MB/s    0:00:19        3,604,480  12% 1020.48kB/s    0:00:24        4,128,768  14%  871.65kB/s    0:00:27        4,653,056  16%  435.37kB/s    0:00:54        5,177,344  18%  459.27kB/s    0:00:50        5,701,632  20%  436.58kB/s    0:00:52        6,225,920  21%  435.74kB/s    0:00:50        6,750,208  23%  435.74kB/s    0:00:49        7,143,424  25%  423.09kB/s    0:00:50        7,667,712  26%  435.77kB/s    0:00:47        8,192,000  28%  423.19kB/s    0:00:47        8,716,288  30%  433.12kB/s    0:00:45        9,240,576  32%  447.36kB/s    0:00:42        9,764,864  34%  433.90kB/s    0:00:42       10,289,152  36%  447.55kB/s    0:00:40       10,813,440  38%  434.45kB/s    0:00:40       11,337,728  39%  433.81kB/s    0:00:39       11,862,016  41%  434.36kB/s    0:00:38       12,386,304  43%  433.53kB/s    0:00:36       12,910,592  45%  434.63kB/s    0:00:35       13,434,880  47%  434.17kB/s    0:00:34       13,959,168  49%  434.08kB/s    0:00:33       14,483,456  50%  433.26kB/s    0:00:32       15,007,744  52%  432.71kB/s    0:00:30       15,532,032  54%  432.98kB/s    0:00:29       16,056,320  56%  433.81kB/s    0:00:28       16,580,608  58%  434.45kB/s    0:00:27       17,104,896  60%  435.19kB/s    0:00:25       17,629,184  62%  422.62kB/s    0:00:25       18,153,472  63%  432.43kB/s    0:00:23       18,677,760  65%  432.52kB/s    0:00:22       19,202,048  67%  434.27kB/s    0:00:21       19,726,336  69%  447.16kB/s    0:00:19       20,250,624  71%  435.37kB/s    0:00:18       20,774,912  73%  435.56kB/s    0:00:17       21,299,200  74%  434.82kB/s    0:00:16       21,823,488  76%  434.36kB/s    0:00:15       22,347,776  78%  433.62kB/s    0:00:13       22,872,064  80%  433.90kB/s    0:00:12       23,396,352  82%  434.45kB/s    0:00:11       23,920,640  84%  434.54kB/s    0:00:10       24,444,928  86%  434.73kB/s    0:00:09       24,969,216  87%  414.66kB/s    0:00:08       25,624,576  90%  435.90kB/s    0:00:06       26,148,864  92%  436.68kB/s    0:00:05       26,673,152  93%  432.95kB/s    0:00:04       27,197,440  95%  449.31kB/s    0:00:02       27,721,728  97%  426.58kB/s    0:00:01       28,246,016  99%  419.84kB/s    0:00:00       28,411,455 100%  468.47kB/s    0:00:59 (xfr#1, to-chk=0/2)
+
+sent 28,418,515 bytes  received 35 bytes  433,870.99 bytes/sec
+total size is 28,411,455  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   1%    0.00kB/s    0:00:00           59,486 100%   11.21MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 6,701 bytes  received 497 bytes  4,798.67 bytes/sec
+total size is 59,486  speedup is 8.26
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 20:58:59 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  69      ***   WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  50      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  49      **    WPA1 WPA2 
+   kikastreats                     Infra  7     54 Mbit/s  45      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  45      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  44      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   orangecomcast                   Infra  11    54 Mbit/s  44      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  37      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  35      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  35      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  34      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  24      *     WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  22      *     WPA1 WPA2 
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  69      ***   WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  50      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  49      **    WPA1 WPA2 
+   kikastreats                     Infra  7     54 Mbit/s  45      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  45      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  44      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   orangecomcast                   Infra  11    54 Mbit/s  44      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  37      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  35      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  35      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  34      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  24      *     WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  22      *     WPA1 WPA2 
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with 'c144f7c1-2cf3-4ff2-8828-1cb6332986ed'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '542e6100-0a36-4288-a42d-46814d33626a'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_01-02-2017-20:59:45.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,523,136   8%    1.93MB/s    0:00:12        3,047,424  10%    1.21MB/s    0:00:20        3,571,712  12%  960.80kB/s    0:00:25        4,096,000  14%  825.46kB/s    0:00:29        4,620,288  16%  429.71kB/s    0:00:54        5,144,576  18%  425.96kB/s    0:00:54        5,668,864  20%  428.18kB/s    0:00:52        6,193,152  22%  430.43kB/s    0:00:51        6,586,368  23%  416.49kB/s    0:00:51        7,110,656  25%  414.42kB/s    0:00:50        7,634,944  27%  423.00kB/s    0:00:48        8,159,232  28%  424.59kB/s    0:00:47        8,683,520  30%  437.14kB/s    0:00:44        9,207,808  32%  438.36kB/s    0:00:43        9,732,096  34%  430.61kB/s    0:00:42       10,256,384  36%  423.23kB/s    0:00:42       10,780,672  38%  435.10kB/s    0:00:39       11,304,960  40%  434.82kB/s    0:00:38       11,829,248  42%  434.17kB/s    0:00:37       12,222,464  43%  419.95kB/s    0:00:37       12,877,824  45%  430.43kB/s    0:00:35       13,402,112  47%  426.13kB/s    0:00:34       13,926,400  49%  433.16kB/s    0:00:32       14,450,688  51%  452.67kB/s    0:00:30       14,974,976  53%  434.63kB/s    0:00:30       15,499,264  55%  440.71kB/s    0:00:28       16,023,552  56%  433.26kB/s    0:00:27       16,547,840  58%  433.81kB/s    0:00:26       17,072,128  60%  427.65kB/s    0:00:25       17,596,416  62%  429.44kB/s    0:00:24       17,989,632  63%  419.31kB/s    0:00:24       18,513,920  65%  427.90kB/s    0:00:22       19,038,208  67%  432.14kB/s    0:00:21       19,562,496  69%  419.21kB/s    0:00:20       20,086,784  71%  428.18kB/s    0:00:18       20,611,072  73%  415.58kB/s    0:00:18       21,135,360  75%  423.93kB/s    0:00:16       21,659,648  76%  434.17kB/s    0:00:14       22,183,936  78%  413.74kB/s    0:00:14       22,839,296  81%  440.66kB/s    0:00:12       23,363,584  82%  432.00kB/s    0:00:11       23,887,872  84%  422.11kB/s    0:00:10       24,412,160  86%  452.86kB/s    0:00:08       24,936,448  88%  429.89kB/s    0:00:07       25,460,736  90%  427.02kB/s    0:00:06       25,985,024  92%  439.58kB/s    0:00:04       26,509,312  94%  427.56kB/s    0:00:03       27,033,600  96%  426.05kB/s    0:00:02       27,557,888  97%  429.26kB/s    0:00:01       28,082,176  99%  427.74kB/s    0:00:00       28,150,427 100%  462.86kB/s    0:00:59 (xfr#1, to-chk=0/2)
+
+sent 28,157,423 bytes  received 35 bytes  423,420.42 bytes/sec
+total size is 28,150,427  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   1%    0.00kB/s    0:00:00           66,613 100%   12.57MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 8,260 bytes  received 545 bytes  5,870.00 bytes/sec
+total size is 66,613  speedup is 7.57
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 21:28:33 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID         MODE   CHAN  RATE       SIGNAL  BARS  SECURITY 
+   WhiteLight2  Infra  3     54 Mbit/s  84      ****  WPA2     
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY    
+   jimsgopro                       Infra  6     54 Mbit/s  100     ****  WPA2        
+*  WhiteLight2                     Infra  3     54 Mbit/s  72      ***   WPA2        
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  57      ***   --          
+   kikastreats                     Infra  7     54 Mbit/s  55      **    WPA2        
+   orangecomcast                   Infra  11    54 Mbit/s  52      **    WPA2        
+   TFS313                          Infra  1     54 Mbit/s  49      **    WPA2        
+   FXT-2.4                         Infra  1     54 Mbit/s  47      **    WPA1 WPA2   
+   xfinitywifi                     Infra  1     54 Mbit/s  45      **    --          
+   Orange-Guest                    Infra  11    54 Mbit/s  45      **    WPA2        
+   OrangeN                         Infra  11    54 Mbit/s  45      **    WPA2        
+   bigbird                         Infra  8     54 Mbit/s  39      **    WPA2        
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  37      **    WPA2        
+   CandyShop                       Infra  11    54 Mbit/s  25      *     WPA1 WPA2   
+   000                             Infra  6     54 Mbit/s  24      *     WPA2 802.1X 
+   Other Network                   Infra  6     54 Mbit/s  17      *     WPA2        
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '6f5cee2f-6924-4607-bcce-1ab8dff1993a'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+ËWaiting for 5 seconds
+Stopping Recording on Camera #1
+ËGetting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with 'b21d3fd1-f0c0-4a24-8db3-2386583316e1'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+
+sent 42 bytes  received 16 bytes  23.20 bytes/sec
+total size is 0  speedup is 0.00
+Deleting local IMG files
+Failed to Sync IMG OR IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   0%    0.00kB/s    0:00:00           70,129 100%   22.07MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 4,120 bytes  received 611 bytes  3,154.00 bytes/sec
+total size is 70,099  speedup is 14.82
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 22:08:26 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  100     ****  WPA2      
+   WhiteLight2                     Infra  3     54 Mbit/s  99      ****  WPA2      
+   TFS313                          Infra  1     54 Mbit/s  60      ***   WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  57      ***   --        
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  47      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  47      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  45      **    --        
+   OrangeN                         Infra  11    54 Mbit/s  45      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  44      **    WPA1 WPA2 
+   Paddock                         Infra  1     54 Mbit/s  40      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  32      **    WPA2      
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  79      ***   WPA2      
+   TFS313                          Infra  1     54 Mbit/s  60      ***   WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  57      ***   --        
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  47      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  47      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  45      **    --        
+   OrangeN                         Infra  11    54 Mbit/s  45      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  44      **    WPA1 WPA2 
+   Paddock                         Infra  1     54 Mbit/s  40      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  32      **    WPA2      
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '39d16eac-cbe2-4c9c-a11a-ae03742ae1e3'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 22:10:25 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  73      ***   WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  59      ***   --        
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  52      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  50      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  45      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  44      **    --        
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  44      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  44      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  40      **    WPA1 WPA2 
+   Paddock                         Infra  1     54 Mbit/s  37      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  34      **    WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  29      *     WPA1 WPA2 
+   --                              Infra  3     54 Mbit/s  22      *     --        
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  76      ***   WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  59      ***   --        
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  52      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  50      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  45      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  44      **    --        
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  44      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  44      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  40      **    WPA1 WPA2 
+   Paddock                         Infra  1     54 Mbit/s  37      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  34      **    WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  29      *     WPA1 WPA2 
+   --                              Infra  3     54 Mbit/s  22      *     --        
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with 'a1666596-1e6f-470e-b22d-77bfc17f5641'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '3f97ff3b-affd-40ee-8468-388d3d708f86'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_01-02-2017-22:11:07.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,195,456   7%    1.87MB/s    0:00:13        2,424,832   8%  895.02kB/s    0:00:28        2,686,976   9%  626.54kB/s    0:00:40        3,211,264  11%  576.52kB/s    0:00:43        3,735,552  13%  275.76kB/s    0:01:29        4,259,840  15%  348.43kB/s    0:01:08        4,784,128  16%  426.49kB/s    0:00:55        5,046,272  17%  366.76kB/s    0:01:03        5,570,560  19%  375.45kB/s    0:01:00        5,963,776  21%  357.31kB/s    0:01:02        6,488,064  22%  370.02kB/s    0:00:58        7,012,352  24%  442.50kB/s    0:00:48        7,405,568  26%  411.58kB/s    0:00:50        7,929,856  28%  449.12kB/s    0:00:45        8,454,144  29%  434.59kB/s    0:00:45        8,847,360  31%  415.39kB/s    0:00:46        9,371,648  33%  433.51kB/s    0:00:43        9,895,936  34%  406.61kB/s    0:00:45       10,289,152  36%  380.39kB/s    0:00:47       10,813,440  38%  396.37kB/s    0:00:44       11,337,728  40%  386.78kB/s    0:00:43       11,862,016  41%  393.60kB/s    0:00:41       12,386,304  43%  395.06kB/s    0:00:40       13,041,664  46%  417.66kB/s    0:00:36       13,565,952  47%  429.36kB/s    0:00:34       14,090,240  49%  426.75kB/s    0:00:33       14,221,312  50%  356.19kB/s    0:00:39       14,483,456  51%  216.35kB/s    0:01:03       14,614,528  51%  147.11kB/s    0:01:33       15,007,744  53%  123.67kB/s    0:01:47       15,532,032  54%  177.41kB/s    0:01:11       15,925,248  56%  239.37kB/s    0:00:51       16,056,320  56%  234.32kB/s    0:00:52       16,580,608  58%  272.87kB/s    0:00:42       17,104,896  60%  283.03kB/s    0:00:39       17,629,184  62%  316.59kB/s    0:00:33       18,153,472  64%  438.73kB/s    0:00:23       18,677,760  66%  435.37kB/s    0:00:22       19,202,048  67%  433.71kB/s    0:00:20       19,726,336  69%  435.47kB/s    0:00:19       20,250,624  71%  373.38kB/s    0:00:21       20,774,912  73%  381.31kB/s    0:00:19       21,299,200  75%  381.66kB/s    0:00:18       21,823,488  77%  381.52kB/s    0:00:16       22,347,776  78%  433.53kB/s    0:00:13       22,872,064  80%  417.87kB/s    0:00:12       23,396,352  82%  414.32kB/s    0:00:11       23,920,640  84%  417.45kB/s    0:00:10       24,444,928  86%  402.28kB/s    0:00:09       25,100,288  88%  423.51kB/s    0:00:07       25,624,576  90%  427.34kB/s    0:00:06       26,148,864  92%  424.59kB/s    0:00:05       26,673,152  94%  450.24kB/s    0:00:03       27,197,440  96%  432.34kB/s    0:00:02       27,721,728  97%  433.26kB/s    0:00:01       28,246,016  99%  433.44kB/s    0:00:00       28,299,066 100%  386.34kB/s    0:01:11 (xfr#1, to-chk=0/2)
+
+sent 28,306,094 bytes  received 35 bytes  365,240.37 bytes/sec
+total size is 28,299,066  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   0%    0.00kB/s    0:00:00           80,566 100%   15.23MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 11,077 bytes  received 641 bytes  7,812.00 bytes/sec
+total size is 80,536  speedup is 6.87
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 22:17:21 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  100     ****  WPA2      
+   WhiteLight2                     Infra  3     54 Mbit/s  94      ****  WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  57      ***   WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  57      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  54      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  52      **    --        
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  52      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  49      **    WPA1 WPA2 
+   TFS313                          Infra  1     54 Mbit/s  44      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  39      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  37      **    WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  30      *     WPA1 WPA2 
+   Foxtail Chromecast              Infra  11    54 Mbit/s  24      *     --        
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   WhiteLight2                     Infra  3     54 Mbit/s  94      ****  WPA2      
+*  jimsgopro                       Infra  6     54 Mbit/s  93      ****  WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  57      ***   WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  57      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  54      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  52      **    --        
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  52      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  49      **    WPA1 WPA2 
+   TFS313                          Infra  1     54 Mbit/s  44      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  39      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  37      **    WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  30      *     WPA1 WPA2 
+   Foxtail Chromecast              Infra  11    54 Mbit/s  24      *     --        
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '0aa67601-a516-4ec2-b7d6-c22018cf6628'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with 'a12071bd-164b-4ffe-9a35-09eaeae1e009'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  none          enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_01-02-2017-22:18:09.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,555,904   9%    2.27MB/s    0:00:11        3,080,192  10%    1.30MB/s    0:00:18        3,604,480  12% 1022.27kB/s    0:00:24        4,128,768  14%  872.41kB/s    0:00:27        4,521,984  16%  412.02kB/s    0:00:57        5,177,344  18%  435.47kB/s    0:00:52        5,701,632  20%  435.19kB/s    0:00:51        6,225,920  22%  435.00kB/s    0:00:50        6,750,208  23%  458.39kB/s    0:00:46        7,274,496  25%  434.36kB/s    0:00:48        7,798,784  27%  434.82kB/s    0:00:47        8,323,072  29%  435.00kB/s    0:00:45        8,847,360  31%  412.07kB/s    0:00:47        9,502,720  33%  435.20kB/s    0:00:43       10,027,008  35%  434.33kB/s    0:00:41       10,551,296  37%  434.50kB/s    0:00:40       10,944,512  38%  441.19kB/s    0:00:39       11,468,800  40%  433.41kB/s    0:00:38       11,993,088  42%  433.02kB/s    0:00:37       12,517,376  44%  432.53kB/s    0:00:36       13,041,664  46%  450.70kB/s    0:00:33       13,565,952  48%  432.52kB/s    0:00:33       14,090,240  49%  435.93kB/s    0:00:32       14,483,456  51%  419.95kB/s    0:00:32       15,007,744  53%  434.98kB/s    0:00:30       15,532,032  54%  418.12kB/s    0:00:30       16,187,392  57%  433.62kB/s    0:00:27       16,711,680  59%  448.47kB/s    0:00:25       17,235,968  61%  433.03kB/s    0:00:25       17,760,256  62%  452.11kB/s    0:00:23       18,284,544  64%  434.73kB/s    0:00:22       18,808,832  66%  423.84kB/s    0:00:22       19,333,120  68%  435.37kB/s    0:00:20       19,857,408  70%  416.51kB/s    0:00:20       20,512,768  72%  434.07kB/s    0:00:17       21,037,056  74%  445.26kB/s    0:00:16       21,561,344  76%  434.50kB/s    0:00:15       22,085,632  78%  452.20kB/s    0:00:13       22,478,848  79%  421.05kB/s    0:00:13       23,003,136  81%  419.12kB/s    0:00:12       23,527,424  83%  418.85kB/s    0:00:11       24,051,712  85%  417.94kB/s    0:00:10       24,576,000  87%  432.62kB/s    0:00:08       25,100,288  88%  434.36kB/s    0:00:07       25,493,504  90%  414.60kB/s    0:00:06       25,886,720  91%  392.38kB/s    0:00:06       26,411,008  93%  388.05kB/s    0:00:04       26,673,152  94%  329.90kB/s    0:00:04       27,197,440  96%  352.09kB/s    0:00:02       27,721,728  98%  375.05kB/s    0:00:01       28,244,482 100%  460.90kB/s    0:00:59 (xfr#1, to-chk=0/2)
+
+sent 28,251,494 bytes  received 35 bytes  424,835.02 bytes/sec
+total size is 28,244,482  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   0%    0.00kB/s    0:00:00           87,532 100%   20.70MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 7,541 bytes  received 731 bytes  3,308.80 bytes/sec
+total size is 87,502  speedup is 10.58
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 22:21:14 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   WhiteLight2                     Infra  3     54 Mbit/s  95      ****  WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  62      ***   --        
+   kikastreats                     Infra  7     54 Mbit/s  55      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  55      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  47      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  47      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  47      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  40      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  35      **    WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  27      *     WPA1 WPA2 
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  WhiteLight2                     Infra  3     54 Mbit/s  75      ***   WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  55      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  54      **    WPA1 WPA2 
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  54      **    --        
+   kikastreats                     Infra  7     54 Mbit/s  52      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  49      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  47      **    --        
+   Paddock                         Infra  1     54 Mbit/s  47      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  47      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  45      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  39      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  37      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  35      **    WPA2      
+   --                              Infra  6     54 Mbit/s  30      *     WPA2      
+   Other Network                   Infra  6     54 Mbit/s  30      *     WPA2      
+Connecting to Camera #1
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 22:25:20 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE         CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+disconnected  none          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+   WhiteLight2                     Infra  3     54 Mbit/s  99      ****  WPA2      
+   WhiteLight2                     Infra  3     54 Mbit/s  97      ****  WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  54      **    WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  50      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  47      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  47      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  45      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  45      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   TFS313                          Infra  1     54 Mbit/s  42      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  42      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  39      **    --        
+   Other Network                   Infra  6     54 Mbit/s  30      *     WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  24      *     WPA1 WPA2 
+   Foxtail Chromecast              Infra  11    54 Mbit/s  20      *     --        
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  77      ***   WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  54      **    WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  50      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  47      **    WPA2      
+   bigbird                         Infra  8     54 Mbit/s  47      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  45      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  45      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   TFS313                          Infra  1     54 Mbit/s  42      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  42      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  39      **    --        
+   Other Network                   Infra  6     54 Mbit/s  30      *     WPA2      
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  24      *     WPA1 WPA2 
+   Foxtail Chromecast              Infra  11    54 Mbit/s  20      *     --        
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '12c18439-ee25-4661-9181-90f2a10670b0'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Wed Feb 1 22:26:37 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  77      ***   WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  64      ***   --        
+   orangecomcast                   Infra  11    54 Mbit/s  54      **    WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  50      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  49      **    --        
+   TFS313                          Infra  1     54 Mbit/s  49      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  47      **    WPA1 WPA2 
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  44      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  39      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  37      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  34      **    WPA2      
+   --                              Infra  6     54 Mbit/s  32      **    WPA2      
+   --                              Infra  6     54 Mbit/s  29      *     WPA1 WPA2 
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  1     54 Mbit/s  100     ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  77      ***   WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  64      ***   --        
+   orangecomcast                   Infra  11    54 Mbit/s  54      **    WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  50      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  49      **    --        
+   TFS313                          Infra  1     54 Mbit/s  49      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  47      **    WPA1 WPA2 
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  44      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  39      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  37      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  34      **    WPA2      
+   --                              Infra  6     54 Mbit/s  32      **    WPA2      
+   --                              Infra  6     54 Mbit/s  29      *     WPA1 WPA2 
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '6c7f714b-c3c7-4d8c-a8ff-085e41295423'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '3011b7ce-2d14-442f-b28f-acdeedf6b7a4'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+img/IMG_01-02-2017-22:26:12.MP4
+         32,768   0%    0.00kB/s    0:00:00        2,555,904   9%    2.26MB/s    0:00:11        3,080,192  10%    1.30MB/s    0:00:18        3,604,480  12%  967.81kB/s    0:00:25        4,259,840  15%  844.52kB/s    0:00:28        4,784,128  17%  435.11kB/s    0:00:53        5,177,344  18%  423.67kB/s    0:00:54        5,701,632  20%  443.67kB/s    0:00:50        6,225,920  22%  426.10kB/s    0:00:51        6,750,208  24%  408.34kB/s    0:00:52        7,405,568  26%  437.47kB/s    0:00:47        7,929,856  28%  425.08kB/s    0:00:47        8,454,144  30%  434.68kB/s    0:00:45        8,978,432  31%  451.64kB/s    0:00:42        9,502,720  33%  433.16kB/s    0:00:42       10,027,008  35%  442.91kB/s    0:00:40       10,551,296  37%  431.70kB/s    0:00:40       11,075,584  39%  419.16kB/s    0:00:40       11,599,872  41%  432.71kB/s    0:00:38       11,993,088  42%  420.32kB/s    0:00:38       12,517,376  44%  434.98kB/s    0:00:35       13,041,664  46%  446.20kB/s    0:00:33       13,565,952  48%  430.78kB/s    0:00:33       14,090,240  50%  444.44kB/s    0:00:31       14,483,456  51%    3.54kB/s    1:04:07       15,007,744  53%    3.54kB/s    1:01:38       15,532,032  55%    3.54kB/s    0:59:11       16,056,320  57%    3.54kB/s    0:56:43       16,580,608  59%  427.74kB/s    0:00:26       17,104,896  60%  426.40kB/s    0:00:25       17,629,184  62%  436.39kB/s    0:00:23       18,153,472  64%  432.80kB/s    0:00:22       18,677,760  66%  430.98kB/s    0:00:21       19,202,048  68%  433.35kB/s    0:00:20       19,726,336  70%  433.44kB/s    0:00:19       20,250,624  72%  435.00kB/s    0:00:18       20,774,912  73%  436.21kB/s    0:00:16       21,299,200  75%  436.12kB/s    0:00:15       21,823,488  77%  436.12kB/s    0:00:14       22,347,776  79%  436.39kB/s    0:00:13       22,872,064  81%  435.74kB/s    0:00:11       23,396,352  83%  433.99kB/s    0:00:10       23,920,640  85%  434.08kB/s    0:00:09       24,444,928  87%  424.02kB/s    0:00:08       24,969,216  88%  433.53kB/s    0:00:07       25,493,504  90%  431.43kB/s    0:00:06       26,017,792  92%  426.76kB/s    0:00:04       26,411,008  94%  407.64kB/s    0:00:04       26,935,296  95%  411.22kB/s    0:00:02       27,459,584  97%  413.79kB/s    0:00:01       27,983,872  99%  417.48kB/s    0:00:00       28,091,324 100%   45.89kB/s    0:09:57 (xfr#1, to-chk=1/3)
+img/IMG_01-02-2017-22:27:24.MP4
+         32,768   0%  111.11kB/s    0:04:20          425,984   1%  353.74kB/s    0:01:20          950,272   3%  395.23kB/s    0:01:10        1,474,560   5%  408.86kB/s    0:01:07        1,998,848   6%  410.95kB/s    0:01:05        2,523,136   8%  431.98kB/s    0:01:01        3,047,424  10%  435.10kB/s    0:00:59        3,571,712  12%  433.99kB/s    0:00:58        4,096,000  14%  438.92kB/s    0:00:56        4,620,288  15%  437.33kB/s    0:00:55        5,144,576  17%  433.99kB/s    0:00:54        5,668,864  19%  432.71kB/s    0:00:53        6,193,152  21%  432.34kB/s    0:00:52        6,717,440  23%  432.07kB/s    0:00:51        7,241,728  25%  429.53kB/s    0:00:50        7,766,016  26%  431.89kB/s    0:00:48        8,290,304  28%  431.79kB/s    0:00:47        8,683,520  30%  419.12kB/s    0:00:48        9,207,808  31%  425.63kB/s    0:00:46        9,732,096  33%  425.72kB/s    0:00:45       10,125,312  35%  408.20kB/s    0:00:46       10,649,600  36%  438.56kB/s    0:00:41       11,173,888  38%  433.70kB/s    0:00:40       11,698,176  40%  432.34kB/s    0:00:39       12,222,464  42%  449.42kB/s    0:00:37       12,746,752  44%  434.36kB/s    0:00:37       13,271,040  45%  433.53kB/s    0:00:36       13,795,328  47%  434.73kB/s    0:00:34       14,319,616  49%  434.54kB/s    0:00:33       14,843,904  51%  433.99kB/s    0:00:32       15,368,192  53%  434.36kB/s    0:00:31       15,892,480  54%  414.41kB/s    0:00:31       16,547,840  57%  433.47kB/s    0:00:28       17,072,128  59%  431.83kB/s    0:00:27       17,596,416  60%  434.16kB/s    0:00:26       18,120,704  62%  454.18kB/s    0:00:23       18,513,920  64%  421.89kB/s    0:00:24       19,038,208  65%  411.31kB/s    0:00:24       19,693,568  68%  428.63kB/s    0:00:21       20,217,856  69%  423.49kB/s    0:00:20       20,742,144  71%  440.49kB/s    0:00:18       21,266,432  73%  453.62kB/s    0:00:16       21,659,648  74%  421.24kB/s    0:00:17       22,183,936  76%  440.37kB/s    0:00:15       22,708,224  78%  433.70kB/s    0:00:14       23,232,512  80%  433.70kB/s    0:00:13       23,756,800  82%  444.93kB/s    0:00:11       24,281,088  83%  432.07kB/s    0:00:10       24,805,376  85%  433.35kB/s    0:00:09       25,198,592  87%  418.21kB/s    0:00:08       25,722,880  88%  434.68kB/s    0:00:07       26,247,168  90%  397.10kB/s    0:00:06       26,902,528  93%  431.43kB/s    0:00:04       27,426,816  94%  447.00kB/s    0:00:03       27,951,104  96%  426.00kB/s    0:00:02       28,475,392  98%  462.78kB/s    0:00:00       28,923,925 100%  431.55kB/s    0:01:05 (xfr#2, to-chk=0/3)
+
+sent 57,029,351 bytes  received 58 bytes  85,309.51 bytes/sec
+total size is 57,015,249  speedup is 1.00
+Deleting local IMG files
+Syncing LOG files
+sending incremental file list
+log/log.txt
+            700   0%    0.00kB/s    0:00:00          104,086 100%   14.09MB/s    0:00:00 (xfr#1, to-chk=0/2)
+
+sent 17,169 bytes  received 791 bytes  11,973.33 bytes/sec
+total size is 104,056  speedup is 5.79
+Finished Transbay/Treecam Sync
+Disconnecting from current network
+Finished Treezmo/Transbay Script
+####################################################
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Fri Feb 3 20:04:54 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  WhiteLight2                     Infra  3     54 Mbit/s  77      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  52      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  45      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  42      **    --        
+   orangecomcast                   Infra  11    54 Mbit/s  42      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  37      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  32      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  32      **    WPA1 WPA2 
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  29      *     WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  25      *     WPA2      
+   Other Network                   Infra  6     54 Mbit/s  20      *     WPA2      
+   --                              Infra  6     54 Mbit/s  20      *     WPA1 WPA2 
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  10      *     WPA1 WPA2 
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Fri Feb 3 20:05:36 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  97      ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  75      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  52      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   orangecomcast                   Infra  11    54 Mbit/s  44      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  39      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   bigbird                         Infra  8     54 Mbit/s  35      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  34      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  32      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  30      *     WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  30      *     WPA1 WPA2 
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  25      *     WPA1 WPA2 
+   Other Network                   Infra  6     54 Mbit/s  15      *     WPA2      
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  97      ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  76      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  54      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  52      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   orangecomcast                   Infra  11    54 Mbit/s  44      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  39      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   bigbird                         Infra  8     54 Mbit/s  35      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  34      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  32      **    WPA2      
+   Paddock                         Infra  1     54 Mbit/s  30      *     WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  30      *     WPA1 WPA2 
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  25      *     WPA1 WPA2 
+   Other Network                   Infra  6     54 Mbit/s  15      *     WPA2      
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '6094689a-84b7-4e32-8566-d3b905667de0'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Fri Feb 3 22:12:51 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  WhiteLight2                     Infra  3     54 Mbit/s  75      ***   WPA2      
+   TFS313                          Infra  1     54 Mbit/s  50      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  45      **    --        
+   kikastreats                     Infra  7     54 Mbit/s  42      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  42      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  37      **    WPA1 WPA2 
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   Paddock                         Infra  1     54 Mbit/s  35      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  35      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  34      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  32      **    WPA2      
+   --                              Infra  3     54 Mbit/s  24      *     --        
+   CandyShop                       Infra  11    54 Mbit/s  24      *     WPA1 WPA2 
+   --                              Infra  6     54 Mbit/s  19      *     WPA2      
+   Foxtail Chromecast              Infra  11    54 Mbit/s  19      *     --        
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+*  WhiteLight2                     Infra  3     54 Mbit/s  75      ***   WPA2      
+   TFS313                          Infra  1     54 Mbit/s  50      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  45      **    --        
+   kikastreats                     Infra  7     54 Mbit/s  42      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  42      **    WPA2      
+   FXT-2.4                         Infra  1     54 Mbit/s  37      **    WPA1 WPA2 
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   Paddock                         Infra  1     54 Mbit/s  35      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  35      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  34      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  32      **    WPA2      
+   --                              Infra  3     54 Mbit/s  24      *     --        
+   CandyShop                       Infra  11    54 Mbit/s  24      *     WPA1 WPA2 
+   --                              Infra  6     54 Mbit/s  19      *     WPA2      
+   Foxtail Chromecast              Infra  11    54 Mbit/s  19      *     --        
+Connecting to Camera #1
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+####################################################
+Start Treezmo/Transbay script
+Running 
+Date: Fri Feb 3 22:45:03 2017
+    February 2017   
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28             
+                     
+
+Starting Transbay/treecam Network Manager
+Starting NetworkManager deamon
+Scanning and Listing avalible networks
+STATE      CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected  full          enabled  enabled  enabled  enabled 
+Scan Complete
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  90      ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  78      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  52      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  50      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  45      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   bigbird                         Infra  8     54 Mbit/s  44      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  42      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  42      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  40      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  40      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  37      **    WPA1 WPA2 
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  15      *     WPA1 WPA2 
+Connecting to Camera
+Scanning availible networks
+Listing availible networks
+*  SSID                            MODE   CHAN  RATE       SIGNAL  BARS  SECURITY  
+   jimsgopro                       Infra  6     54 Mbit/s  90      ****  WPA2      
+*  WhiteLight2                     Infra  3     54 Mbit/s  76      ***   WPA2      
+   kikastreats                     Infra  7     54 Mbit/s  52      **    WPA2      
+   TFS313                          Infra  1     54 Mbit/s  50      **    WPA2      
+   orangecomcast                   Infra  11    54 Mbit/s  45      **    WPA2      
+   HP-Print-4a-LaserJet 200        Infra  6     54 Mbit/s  44      **    --        
+   bigbird                         Infra  8     54 Mbit/s  44      **    WPA2      
+   HP-Print-EC-Officejet Pro 8600  Infra  7     54 Mbit/s  42      **    WPA2      
+   STUDIO315GUEST                  Infra  8     54 Mbit/s  42      **    WPA2      
+   Orange-Guest                    Infra  11    54 Mbit/s  40      **    WPA2      
+   OrangeN                         Infra  11    54 Mbit/s  40      **    WPA2      
+   xfinitywifi                     Infra  1     54 Mbit/s  37      **    --        
+   FXT-2.4                         Infra  1     54 Mbit/s  37      **    WPA1 WPA2 
+   TFS2_2GEXT                      Infra  11    54 Mbit/s  15      *     WPA1 WPA2 
+Connecting to Camera #1
+[2KDevice 'wlan0' successfully activated with '0f19f391-2a2f-482a-99ae-efd3de0b7f27'.
+Waking up Camera #1
+Waking up D6:D9:19:7B:6C:E7...
+Starting Recording on Camera #1
+  Waiting for 5 seconds
+Stopping Recording on Camera #1
+  Getting images from Camera #1
+Saving to local img folder
+Deleting local tmp and trash files
+Delete last file on Camera
+{}
+Putting Camera #1 to sleep
+{}
+Transbay Camera Operation Complete
+Connecting to Home Network
+[2KDevice 'wlan0' successfully activated with '338cfbea-d47d-4dd5-9bed-1dff1cf77aaa'.
+Current network:
+STATE                  CONNECTIVITY  WIFI-HW  WIFI     WWAN-HW  WWAN    
+connected (site only)  limited       enabled  enabled  enabled  enabled 
+
+Starting Transbay/Treecam Sync
+Syncing IMG files
+sending incremental file list
+
+sent 52 bytes  received 17 bytes  46.00 bytes/sec
+total size is 0  speedup is 0.00
+Deleting local IMG files
+Failed to Sync IMG OR IMG files
+Syncing LOG file
+sending incremental file list

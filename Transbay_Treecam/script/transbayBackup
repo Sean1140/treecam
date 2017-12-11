@@ -1,0 +1,31 @@
+################################################################################
+#Transbay/Treecam Complete Backup Script                                       #
+#Written by Sean McGowen                                                       #
+#This script will backup the entire operating system to a remote host          #
+################################################################################
+
+#Arguement 1 is IP of server to backup to 67.192.246.163
+
+#To Do:
+#
+#
+
+
+#set date
+_now=$(date +"%m_%d_%y")
+_file="~/Transbay_Backup"
+echo Starting Transbay/Treecam Complete Backup Script
+echo Conntecting to remote machine
+echo Uploading image to $_file on $_now
+sshpass -p 'REDACTED!!!' rsync -avP --update / root@$1:$_file/
+	if [ "$?" != "0" ]; then
+		echo "Failed to sync Backup"
+		echo "Exit code:" $?
+		exit 1
+	fi
+	PID=$1
+	wait $PID
+	sleep 2s
+echo Backup Complete
+
+
